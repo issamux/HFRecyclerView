@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * Created by issamux
+ * Created by issamux 2016
  */
 
 public class MyRecyclerAdapter extends AbstractRecyclerViewAdapter<RecyclerView.ViewHolder, MyRecyclerAdapter.CustomDataSetVH,
